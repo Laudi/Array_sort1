@@ -29,3 +29,4 @@ console.log(sortByBirth([
     'Alan Turing, 1912',
     'Ada Lovelace, 1815'
 ])) // ['Ada Lovelace, 1815', 'Nicola Tesla, 1856', 'Alan Turing, 1912']
+
